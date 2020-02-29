@@ -8,7 +8,6 @@ public class MyApplication {
         this.service = service;
     }
     public boolean processMessage(Message message) {
-        //some magic like validation, Logging etc
-        return service.sendMessage(message.msg, message.rec);
+        return this.service.sendMessage(message.getMsg(), message.getRec());
     }
 }
