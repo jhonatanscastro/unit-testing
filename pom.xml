@@ -9,8 +9,8 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
 
-    <sonar.projectKey>cesar-school_unit-testing</sonar.projectKey>
-    <sonar.organization>cesar-school</sonar.organization>
+   <sonar.projectKey>jhonatanscastro_unit-testing</sonar.projectKey>
+   <sonar.organization>jhonatanscastro</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
